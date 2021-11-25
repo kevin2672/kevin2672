@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevin2672
-- 👀 I’m interested in developing databases and ways to ease the reache of uploud data or dwonloud also import\export..
+- 👀 I’m interested in developing databases and ways of ease and speed-up the transformation of relevant information required instantly. 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on databases, atomating processes and AI... 
 - 📫 How to reach me ... Contact@banckloud.com
